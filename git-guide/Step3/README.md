@@ -19,7 +19,7 @@
         └── questions
     ```
     - 해당 폴더에 지금까지 강의중 실습했던 모든 자료를 붙여넣습니다.
-        - path-to/tgwing-opensource-study/junior/sungjunyoung/
+        - path-to/Git-Guide/junior/sungjunyoung/
     - `git add .`
     - `git commit -m "<commit message>"`
     - `git push`
