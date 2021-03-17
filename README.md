@@ -3,7 +3,7 @@
 조만간 Tech-Concert에 모셔보도록 하겠습니다😉  
 
 ### Author
-- Origin: [12 성준영](https://github.com/sungjunyoung)  
+- Original: [12 성준영](https://github.com/sungjunyoung)  
 - Renewal: [16 김성수](https://github.com/korkeep)  
 ### [실습 1회차](https://github.com/TG-WinG/Git-Guide/tree/master/git-guide/Step1)
 - Git 이란?
