@@ -1,19 +1,5 @@
-## 스터디 2주차
-1. **한학기 동안 진행할 일들**
-    - 신입생
-        - 학교 실습 파일들 푸시하기
-        - 개인별 저장소 관리
-    - 재학생
-        - 티지윙 날적이 만들기
-        - 역할분담
-            - server
-                - Spring
-            - client
-                - ios
-                - android
-                - web
-                
-2. **Pull / Fetch**
+## 스터디 2주차           
+1. **Pull / Fetch**
     - 업데이트된 Git-Guide pull 받아보기
         - `git remote add junyoung https://github.com/TG-WinG/Git-Guide.git`
         > junyoung 이라는 단축 이름으로 <url> 의 리모트 저장소를 추가합니다
@@ -22,7 +8,7 @@
         이 명령어는 로컬에서 작업할 떄마다 해주는 게 좋습니다. (소스를 원본과 싱크를 맞춰줍니다.)
     - Fetch 해보기
 
-3. **Opensource WorkFlow**
+2. **Opensource WorkFlow**
     > 실제 오픈소스에 기여할 때의 간단한 작업 순서를 실습합니다. / 학기중 스터디는 항상 다음과 같이 진행됩니다.
     - 브랜치 만들기
         - `git branch question`
