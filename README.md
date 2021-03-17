@@ -1,5 +1,5 @@
 # Git-Guide
-- Author: [12 성준영 @sungjunyoung](https://github.com/sungjunyoung) [16 김성수 @korkeep](https://github.com/korkeep)
+- Author: [12 성준영](https://github.com/sungjunyoung) [16 김성수](https://github.com/korkeep)
 - 좋은 자료 만들어주신 준영이행님께 너무 감사드립니다🙏
 
 ### [1회차](https://github.com/TG-WinG/Git-Guide/tree/master/git-guide/Step1)
